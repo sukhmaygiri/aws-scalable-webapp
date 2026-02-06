@@ -82,6 +82,7 @@ It showcases real-world architecture with **EC2 instances, Application Load Bala
 - ✅ ALB DNS serving application [https://github.com/sukhmaygiri/aws-scalable-webapp/blob/f187c22390b421c7f427fd1cc5e0866837357c09/alb-dns-output.png]
 - ✅ Auto Scaling adding/removing instances[https://github.com/sukhmaygiri/aws-scalable-webapp/blob/aebda19c8233b270b1f1b08f77776d94d38fc994/autoscalingactivity.png]
 - ✅ AutoScaling Group Configuration[https://github.com/sukhmaygiri/aws-scalable-webapp/blob/ad739fb9dab864d776372364f5e1e6d49d7e7ce9/asg-config.png]
+- ✅  CloudWatch Alarms [https://github.com/sukhmaygiri/aws-scalable-webapp/blob/c458f86a854d6359b87d1b4cd3ea15fffc3d8d70/cloudwatchalarms.png]
 
 ---
 
