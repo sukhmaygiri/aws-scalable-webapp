@@ -63,7 +63,7 @@ It showcases real-world architecture with **EC2 instances, Application Load Bala
    - Attach Launch Template
    - Desired capacity: 2
    - Min: 1, Max: 4
-   - Scaling policy: CPU > 70% → scale out, CPU < 30% → scale in
+   - Scaling policy: CPU > 50% → scale out, CPU < 35% → scale in
 
 7. **Test**
    - Open ALB DNS in browser:
