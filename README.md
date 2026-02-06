@@ -78,7 +78,7 @@ It showcases real-world architecture with **EC2 instances, Application Load Bala
 ---
 
 ## Screenshots
-- ✅ EC2 instances healthy in Target Group  []
+- ✅ EC2 instances healthy in Target Group  [https://github.com/sukhmaygiri/aws-scalable-webapp/blob/e5f0e539dd0b39b079a609b14a2b4897189a946b/target-group-healthy-instance.png]
 - ✅ ALB DNS serving application [https://github.com/sukhmaygiri/aws-scalable-webapp/blob/f187c22390b421c7f427fd1cc5e0866837357c09/alb-dns-output.png]
 - ✅ Auto Scaling adding/removing instances[]
 - ✅ Debugging 502 errors resolved[]
